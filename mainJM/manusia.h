@@ -6,6 +6,8 @@ class manusia {
 public: 
 	string name;
 	jantung varjantung;
+
+	manusia(string pName)
 };
 #endif 
 
