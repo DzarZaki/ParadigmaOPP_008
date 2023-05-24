@@ -7,4 +7,7 @@ public:
 	anak(string pnama) :nama(pNama) {
 		cout << "Anak \"" << nama << "\" ada\n";
 	}
+	~anak() {
+
+	}
 };
