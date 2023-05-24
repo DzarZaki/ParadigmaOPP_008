@@ -7,4 +7,5 @@ public:
 	string nama;  
 
 	orang(string pNama) :
+		nama(pNama) {  
  
