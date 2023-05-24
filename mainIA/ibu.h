@@ -15,3 +15,6 @@ public:
 	void tambahAnak(anak*);
 	void cetakAnak();
 };
+void ibu::cetakAnak() {
+
+}
