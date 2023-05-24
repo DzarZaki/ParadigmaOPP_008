@@ -9,7 +9,7 @@ public:
 
 	manusia(string pName)
 		: name(pName) {
-
+		cout << name << " hiidup\n";
 	}
 };
 #endif 
