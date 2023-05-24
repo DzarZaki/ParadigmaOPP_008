@@ -25,3 +25,4 @@ public:
 	string sekolah;
 
 	pelajar(string pNama, string pSekolah) : 
+		orang(pNama),
