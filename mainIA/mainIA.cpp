@@ -14,4 +14,5 @@ int main() {
 
 	varIbu->tambahAnak(varAnak1);
 	varIbu->tambahAnak(varAnak2);   
+	varibu2->tambahAnak(varAnak3); 
 }
