@@ -24,6 +24,8 @@ public:
 
 	dokter(string pNama) :nama(pNama) {
 		cout << "Dokter \"" << nama << "\" ada\n";
+	}
+	~dokter() {
 
 	}
 };
