@@ -38,4 +38,7 @@ void pasien::tambahDokter(dokter* pDokter) {
 }
 void pasien::cetakDokter() {
 	cout << "Daftar Dokter yang mengenai pasien \"" << this->nama << "\":\n";
+	for (auto& a : daftar_dokter) {
+
+	}
 }
