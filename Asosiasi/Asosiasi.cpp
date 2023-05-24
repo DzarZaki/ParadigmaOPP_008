@@ -28,7 +28,6 @@ public:
 	~dokter() {
 		cout << "Dokter \"" << nama << "\" tidak ada\n";
 	}
-	~dokter() {
-
-	}
+	
+	void tambahPasien(pasien*);
 };
