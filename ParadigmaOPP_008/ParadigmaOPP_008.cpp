@@ -26,3 +26,7 @@ public:
 
 	pelajar(string pNama, string pSekolah) : 
 		orang(pNama),
+		sekolah(pSekolah) {
+		cout << "pelajar dihapus\n" << endl;
+	}
+	~pelajar() {
